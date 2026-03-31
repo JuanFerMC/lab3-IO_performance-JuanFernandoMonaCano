@@ -17,13 +17,13 @@
 ## Etapa 2 - Resultados del experimento
 ---
 **Fig_speedup**
-![fig_speedup](images/fig_speedup.png)
+![fig_speedup](Images/fig_speedup.png)
 **Fig_throughput**
-![fig_throughput](images/fig_throughput.png)
+![fig_throughput](Images/fig_throughput.png)
 **Fig_tiempo_teoria_vs_practica_aleatorio**
-![fig_tiempo_teoria_vs_practica_aleatorio](images/fig_tiempo_teoria_vs_practica_aleatorio.png)
+![fig_tiempo_teoria_vs_practica_aleatorio](Images/fig_tiempo_teoria_vs_practica_aleatorio.png)
 **Fig_tiempo_teoria_vs_practica_secuencial**
-![fig_tiempo_teoria_vs_practica_secuencial](images/fig_tiempo_teoria_vs_practica_secuencial.png)
+![fig_tiempo_teoria_vs_practica_secuencial](Images/fig_tiempo_teoria_vs_practica_secuencial.png)
 
 ## Etapa 3 - Análisis y conclusiones
 ---
